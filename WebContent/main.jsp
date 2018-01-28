@@ -13,7 +13,7 @@
 
 
 
-<title>레시피 볼래?</title>
+<title>레시피 볼래? 싫어</title>
 
 </head>
 <body>
