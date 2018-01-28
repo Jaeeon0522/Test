@@ -12,7 +12,7 @@
 
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>안녕하세요</title>
 
 <style>
 #loginStyle {
